@@ -1,9 +1,8 @@
-Python 3.7.4 (v3.7.4:e09359112e, Jul  8 2019, 14:54:52) 
-[Clang 6.0 (clang-600.0.57)] on darwin
-Type "help", "copyright", "credits" or "license()" for more information.
->>> #!/usr/bin/env python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""Week 6 Assignment - Tests"""
+"""Week 6 Assignment - Tests
+	Dave Soto
+"""
 
 import conversions
 import unittest
